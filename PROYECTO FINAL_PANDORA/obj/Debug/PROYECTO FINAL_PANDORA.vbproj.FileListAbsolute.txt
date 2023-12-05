@@ -1,0 +1,26 @@
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO FINAL_PANDORA.vbproj.AssemblyReference.cache
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.Form1.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.LoginForm1.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.Resources.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.SplashScreen1.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO FINAL_PANDORA.vbproj.GenerateResource.cache
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO FINAL_PANDORA.vbproj.CoreCompileInputs.cache
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.AboutBox1.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\bin\Debug\VENTAS PANDORA.exe.config
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\bin\Debug\VENTAS PANDORA.exe
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\bin\Debug\VENTAS PANDORA.pdb
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\bin\Debug\VENTAS PANDORA.xml
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\VENTAS PANDORA.exe
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\VENTAS PANDORA.xml
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\VENTAS PANDORA.pdb
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.frmProductoListado.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.frmProductosAgregar.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.frmUsuarioAgregar.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.frmUsuariosListado.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.frmVentasAgregar.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.frmVentaListado.resources
+C:\Users\S.O\source\repos\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO_FINAL_PANDORA.PANDORA.resources
+E:\PROYECTO FINAL_BRIANNA\PROYECTO FINAL_PANDORA\obj\Debug\PROYECTO FINAL_PANDORA.vbproj.AssemblyReference.cache
+E:\PROYECTO FINAL_BRIANNA\PROYECTO FINAL_PANDORA\obj\Debug\VENTAS PANDORA.exe
+E:\PROYECTO FINAL_BRIANNA\PROYECTO FINAL_PANDORA\obj\Debug\VENTAS PANDORA.xml
+E:\PROYECTO FINAL_BRIANNA\PROYECTO FINAL_PANDORA\obj\Debug\VENTAS PANDORA.pdb
